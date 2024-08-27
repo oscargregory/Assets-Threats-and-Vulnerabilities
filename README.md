@@ -20,12 +20,16 @@ You are tasked with completing a vulnerability assessment of the situation to co
 - Step 1: Access the template
 - Step 2: Access supporting materials
 - Step 3: Review information about the vulnerable server
+  
 <h2>Part 2</h2>
+
 - Step 1: Explain the purpose of the information system
 - Step 2: Identify potential threat sources
 - Step 3: Identify potential threat events
 - Step 4: Calculate the risk of potential threats
+  
 <h2>Part 3</h2>
+
 - Step 1: Explain your approach
 - Step 2: Propose a remediation strategy
 
